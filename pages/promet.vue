@@ -22,6 +22,8 @@
           </tr>
         </tbody>
       </table>
+
+      <a @click="$router.go({path:'/promet', force: true})" class="button--green">Refresh</a>
     </div>
   </section>
 </template>
