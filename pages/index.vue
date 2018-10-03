@@ -6,7 +6,7 @@
         Promet Brezice Catez
       </h2>
       <div class="links">
-        <a href="/promet" class="button--green">Promet</a>
+        <nuxt-link to="/promet" class="button--green">Promet</nuxt-link>
       </div>
     </div>
   </section>
